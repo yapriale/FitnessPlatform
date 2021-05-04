@@ -146,3 +146,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+FitnessPlatform/settings_local.py
